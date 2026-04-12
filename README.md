@@ -13,7 +13,9 @@
 
 ---
 
-MS Data Science @ Northeastern University. I build end-to-end ML systems — from ETL pipelines and predictive models to production-deployed LLM applications. Focused on retail analytics, agentic AI, and turning messy data into decisions.
+MS Data Science @ Northeastern University.
+I build end-to-end ML systems; from ETL pipelines and predictive models to production-deployed LLM applications.
+Focused on retail analytics, agentic AI, and turning messy data into decisions.
 
 ---
 
