@@ -2,7 +2,7 @@
 
 # Het Prajapati
 
-**Data Scientist · ML Engineer · Builder**
+**Data Scientist · ML Engineer · NLP & Agentic AI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/het-prajapati6210)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Het415)
