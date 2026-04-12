@@ -52,8 +52,5 @@ H1N1 vaccine prediction (84% acc) · NYC taxi fare (RMSE $3.20) · 25+ engineere
 ---
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Het415&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true)](https://github.com/Het415)
-&nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Het415&layout=compact&hide_border=true&theme=default)](https://github.com/Het415)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Het415&hide_border=true)](https://github.com/Het415)
 </div>
