@@ -4,9 +4,10 @@
 
 **Data Scientist · ML Engineer · Builder**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-prajapati6210/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/het-prajapati6210)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Het415)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prajapati.hets@northeastern.edu)
-[![Portfolio](https://img.shields.io/badge/Boston,_MA-gray?style=flat&logo=googlemaps&logoColor=white)](#)
+[![Boston](https://img.shields.io/badge/Boston,_MA-gray?style=flat&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -21,10 +22,10 @@ MS Data Science @ Northeastern University. I build end-to-end ML systems — fro
 **[ListingLens](https://github.com/Het415/listinglens)** — Amazon Seller Intelligence Platform
 > Multi-stage NLP pipeline processing 250 reviews/product · BERT sentiment scoring · XGBoost return risk classifier (96.5% acc, 0.997 ROC-AUC) · RAG pipeline with FAISS + LLaMA 3 70B · Deployed on Railway + Vercel
 
-**[Distributed Backtesting Engine](https://github.com/Het415/algorithmic-trading-backtest)** — Algorithmic Trading
+**[Distributed Backtesting Engine](https://github.com/Het415/backtesting-engine)** — Algorithmic Trading
 > PySpark parallel framework · 123 strategies × 100 S&P 500 stocks · 12,300 backtests on 303K real market records · 5-step data governance pipeline · 9-panel Plotly BI dashboards
 
-**[Spotify Breakout Predictor](https://github.com/Het415/Spotify_predictor_enhanced)** — Viral Music Classification
+**[Spotify Breakout Predictor](https://github.com/Het415/spotify-predictor)** — Viral Music Classification
 > 99.2% accuracy · 0.998 ROC-AUC · temporal + 5-fold cross-validation · TikTok views as dominant predictor (41% importance) · Interactive Streamlit dashboard
 
 ---
@@ -44,13 +45,27 @@ MS Data Science @ Northeastern University. I build end-to-end ML systems — fro
 ## Experience
 
 **Data Science Intern** · Compatible Solutions *(Jan 2025 – Jun 2025)*
-ETL pipelines on 100K+ records · Predictive modeling with 20% accuracy lift over legacy systems · A/B testing · BI dashboards
+- Built ETL pipelines processing 100K+ records with data governance for BI reporting
+- Improved predictive model accuracy by 20% over legacy system via feature engineering + hyperparameter tuning
+- Conducted A/B testing and delivered interactive dashboards for stakeholder decision-making
 
 **Data Science Intern** · Yhills / IIT Hyderabad *(Mar 2023 – May 2023)*
-H1N1 vaccine prediction (84% acc) · NYC taxi fare (RMSE $3.20) · 25+ engineered features · 30% model performance improvement
+- Built ML models for H1N1 vaccine prediction (84% acc) and NYC taxi fare (RMSE $3.20)
+- Engineered 25+ features from temporal, geographic, and demographic data; improved performance by 30%
+- Communicated insights via visual dashboards for non-technical stakeholders
+
+---
+
+## Currently Exploring
+
+- LLM applications & agentic workflows
+- Scalable ML systems & deep learning
+- Distributed data processing (Spark + cloud)
 
 ---
 
 <div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Het415&hide_border=true)](https://github.com/Het415)
+
 </div>
