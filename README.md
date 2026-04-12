@@ -21,10 +21,10 @@ MS Data Science @ Northeastern University. I build end-to-end ML systems — fro
 **[ListingLens](https://github.com/Het415/listinglens)** — Amazon Seller Intelligence Platform
 > Multi-stage NLP pipeline processing 250 reviews/product · BERT sentiment scoring · XGBoost return risk classifier (96.5% acc, 0.997 ROC-AUC) · RAG pipeline with FAISS + LLaMA 3 70B · Deployed on Railway + Vercel
 
-**[Distributed Backtesting Engine]([https://github.com/Het415/backtesting-engine](https://github.com/Het415/algorithmic-trading-backtest))** — Algorithmic Trading
+**[Distributed Backtesting Engine](https://github.com/Het415/algorithmic-trading-backtest)** — Algorithmic Trading
 > PySpark parallel framework · 123 strategies × 100 S&P 500 stocks · 12,300 backtests on 303K real market records · 5-step data governance pipeline · 9-panel Plotly BI dashboards
 
-**[Spotify Breakout Predictor]([https://github.com/Het415/Spotify_predictor_enhanced](https://github.com/Het415/Spotify_predictor_enhanced))** — Viral Music Classification
+**[Spotify Breakout Predictor](https://github.com/Het415/Spotify_predictor_enhanced)** — Viral Music Classification
 > 99.2% accuracy · 0.998 ROC-AUC · temporal + 5-fold cross-validation · TikTok views as dominant predictor (41% importance) · Interactive Streamlit dashboard
 
 ---
