@@ -45,16 +45,16 @@ Focused on retail analytics, agentic AI, and turning messy data into decisions.
 ---
 
 ## Experience
-
-**Data Science Intern** · Compatible Solutions *(Jan 2025 – Jun 2025)*
-- Built ETL pipelines processing 100K+ records with data governance for BI reporting
-- Improved predictive model accuracy by 20% over legacy system via feature engineering + hyperparameter tuning
-- Conducted A/B testing and delivered interactive dashboards for stakeholder decision-making
+**Data Science Associate** · Compatible Solutions *(Jul 2024 – Jun 2025)*
+- Built ETL pipelines in Python and SQL processing 100K+ records from CRM and transactional systems, enabling faster analytics for business teams
+- Engineered 15+ behavioral features (purchase frequency, recency scores, seasonality indices), improving forecast accuracy by 20% over legacy baseline
+- Designed 5+ KPI dashboards using Matplotlib and Seaborn, reducing manual reporting and supporting data-driven stakeholder decisions
+- Implemented data validation pipelines achieving 95%+ data quality scores across BI reporting systems
 
 **Data Science Intern** · Yhills / IIT Hyderabad *(Mar 2023 – May 2023)*
-- Built ML models for H1N1 vaccine prediction (84% acc) and NYC taxi fare (RMSE $3.20)
-- Engineered 25+ features from temporal, geographic, and demographic data; improved performance by 30%
-- Communicated insights via visual dashboards for non-technical stakeholders
+- Built ML models for H1N1 vaccine prediction (84% accuracy) and NYC taxi fare prediction (RMSE: $3.20) using Random Forest and XGBoost on 50K+ records
+- Engineered 25+ features from temporal, geographic, and demographic data, improving model performance by 30%
+- Communicated insights via visual dashboards to non-technical stakeholders using Matplotlib and Seaborn
 
 ---
 
